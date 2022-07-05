@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+}
+video{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 20px;
+    border: 2px solid white;
+}
+.description h2{
+   font-size: 35px;
+   color: red;
+   padding-top: 20px;
+   padding-left: 40px;
+}
+hr{
+    width: 200px;
+    height: 2px;
+    margin-left: 40px;
+    background-color: red;
+}
+.description h3{
+    color: aliceblue;
+    font-size: 15px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+ul {
+    display: inline-flex;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+ul li{
+    padding-left: 40px;
+}
